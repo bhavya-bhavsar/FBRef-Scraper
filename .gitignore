@@ -1,3 +1,6 @@
 .vscode
 *.html
 node_modules
+*.json
+!package.json
+*.zip
